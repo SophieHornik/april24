@@ -54,7 +54,7 @@
   
   .db {
     background-image: url(petss.png);
-    background-position: right 35% bottom 45%;
+    background-position: right 35% bottom 0S%;
     background-size: cover;
     background-repeat: no-repeat;
     color:#black;
@@ -85,5 +85,6 @@
   }
   .para{
     font-family: 'Lilita One', sans-serif;
-    color: rgb(100, 200, 250);
+    color:#985F6F;
+    font-size: 3rem;
   }
