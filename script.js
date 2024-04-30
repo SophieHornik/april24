@@ -26,7 +26,7 @@ function showEducation() {
 
 }
 function showEarnings() {
-  paragraph1.innerHTML = "On January 10, 1861, Florida officially seceded from the Union, becoming the third state to do so during the tumultuous period leading up to the American Civil War. The state's secession was driven by a combination of economic, social, and political factors, including concerns over the preservation of slavery and states' rights. Florida's decision to join the Confederate States of America intensified the regional tensions and marked a pivotal moment in the escalation toward the Civil War. The impact of Florida's secession was felt not only in the state itself but also across the nation as it fueled the growing divide between the Northern and Southern states. The secession of Florida, along with other Southern states, ultimately culminated in the deadliest conflict in American history, the Civil War, which lasted from 1861 to 1865 and had profound and lasting consequences for the nation."
+  paragraph1.innerHTML = "<p>According to <a href='https://money.usnews.com/careers/best-jobs/veterinarian/salary' class='links'>U.S. News</a>, factors such as region,industry, experience and employer affect a veterinarian’s salary. This can range anywhere from $82,580 to $132,980 (according to stats taken in 2022)"
  title.textContent = "Earnings"
   main.src = "dogmoney.jpg"
   pic1.src = "dogkisscat.jpg"
