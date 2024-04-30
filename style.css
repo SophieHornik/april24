@@ -83,8 +83,20 @@
     border: 5px solid #985F6F;
     border-radius: 20px;
   }
+
+  #main2{
+    border: 5px solid #985F6F;
+    border-radius: 20px;
+    margin-top: 20%;
+  }
   .para{
     font-family: 'Lilita One', sans-serif;
     color:#985F6F;
     font-size: 3rem;
+  }
+  .links{
+    color:#5f6398;
+  }
+  .links:hover{
+    color: #d1315e;
   }

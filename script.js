@@ -3,13 +3,14 @@ let year = document.getElementById('title');
 let main = document.getElementById('main');
 let pic1 = document.getElementById('pic1');
 let pic2 = document.getElementById('pic2');
-let pic3 = document.getElementById('button');
+let main2 = document.getElementById('main2');
 function showOverview() {
   paragraph.textContent = "On January 10th, 2007, Sophia Frederique Hornik was born at 9:42 pm in New Brunswik hospital. Her first name (Sophia) was after her Grandpa (Saul Hornik). Her middle name (Frederique) was after her papa (Fred Haberman). Sophia’s Older brother, Ethan, decided he did not like the name Sophia so he would only call her “Sophie”, which Sophie has gone by ever since. Sophie is now 17 years old and a student at Marlboro high school."
   year.textContent = "Overview"
   main.src = "vetwdog.jpg"
   pic1.src = "cutecat.jpg"
   pic2.src = "goldenvet.jpg"
+  main2.src="tigervet.jpg"
 }
 
 
@@ -21,6 +22,7 @@ function showEducation() {
   main.src = "vetgrad.jpg"
   pic1.src = "studyingdr.jpg"
   pic2.src = "catanddog.jpg"
+  main2.src="catanddog.jpg"
 
 }
 function showEarnings() {
