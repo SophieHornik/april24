@@ -26,7 +26,7 @@ function showEducation() {
 
 }
 function showEarnings() {
-  paragraph1.innerHTML = "<p>According to <a href='https://money.usnews.com/careers/best-jobs/veterinarian/salary' class='links'>U.S. News</a>, factors such as region,industry, experience and employer affect a veterinarian’s salary. This can range anywhere from $82,580 to $132,980 (according to stats taken in 2022) <br> <div><img id='pic'src='vetchart.jpg' class='card-img-top'><div> <a href='https://myvetlife.avma.org/new-veterinarian/your-financial-health/veterinary-salary-estimator'> <button id='calc'> Vet Salary Estimate</button>"
+  paragraph1.innerHTML = "<p>According to <a href='https://money.usnews.com/careers/best-jobs/veterinarian/salary' class='links'>U.S. News</a>, factors such as region,industry, experience and employer affect a veterinarian’s salary. This can range anywhere from $82,580 to $132,980 (according to stats taken in 2022) <br> <div><img id='pic'src='vetchart.jpg' class='card-img-top'><div class='ctr'> <a href='https://myvetlife.avma.org/new-veterinarian/your-financial-health/veterinary-salary-estimator'> <button id='calc'> Vet Salary Estimate</button>"
  title.textContent = "Earnings"
   main.src = "dogmoney.jpg"
   pic1.src = "dogkisscat.jpg"

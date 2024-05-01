@@ -195,6 +195,7 @@ color: gold;
                 border-radius: 20px;
                 text-align: center;
                 margin-top: 20px;
+              
                 }
                 #calc:hover{
                   background-color: #5f6398 ;
@@ -203,4 +204,8 @@ color: gold;
                   border-radius: 20px;
                   text-align: center;
                   margin-top: 20px;
+                }
+                .ctr{
+                  justify-content: center;
+                  text-align: center;
                 }
