@@ -186,3 +186,21 @@ color: gold;
                 border: 5px solid #985F6F;
     border-radius: 20px;
                } 
+               #calc{   
+                width: 400px;
+                height: 100px;
+                background-color:#985F6F ;
+                color: white;
+                border: 5px solid #985F6F;
+                border-radius: 20px;
+                text-align: center;
+                margin-top: 20px;
+                }
+                #calc:hover{
+                  background-color: #5f6398 ;
+                  color: white;
+                  border: 5px solid #985F6F;
+                  border-radius: 20px;
+                  text-align: center;
+                  margin-top: 20px;
+                }
